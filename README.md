@@ -26,7 +26,6 @@ This repository performs the needed calculation to the maximum angle of movement
   ![image](https://user-images.githubusercontent.com/57038620/186792393-4c37f2df-1520-4453-9587-e7a977e05d52.png)
   ![image](https://user-images.githubusercontent.com/57038620/186792463-29096e91-b3c4-4e3e-985d-e9db1e1e36bf.png)
   ![image](https://user-images.githubusercontent.com/57038620/186792606-ef41e392-6c67-4930-bbe1-ba41fbcde913.png)
-  ![image](https://user-images.githubusercontent.com/57038620/186792604-67d58d02-0566-4167-9b90-eff652123b45.png)
   ![image](https://user-images.githubusercontent.com/57038620/186792765-3a5079a5-882f-48a0-bbdb-9aee81751982.png) 
   ![image](https://user-images.githubusercontent.com/57038620/186792766-38f13831-9a2f-49e0-83f2-e060566b39c2.png)
   ![image](https://user-images.githubusercontent.com/57038620/186793024-9db696ce-5e47-40c4-8cd6-054c08e0f7ad.png)
